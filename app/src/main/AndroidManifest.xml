@@ -11,7 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FirebaseAddmob"
-        tools:targetApi="31">
+        tools:targetApi="31"
+        >
+        <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544/9214589741"/> <!-- admob sitesinden alınacak -->
         <activity
             android:name=".MainActivity"
             android:exported="true"
