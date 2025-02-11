@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894786890138",
+    "project_id": "fir-addmob-6e671",
+    "storage_bucket": "fir-addmob-6e671.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894786890138:android:c13fc0aef54ce5ec25f223",
+        "android_client_info": {
+          "package_name": "com.osman.firebaseaddmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCu5k8BFFnZVFYTVPULhmLlLNEGYnkWmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
